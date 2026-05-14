@@ -1,0 +1,12 @@
+FullAOI_Export.cpg
+FullAOI_Export.dbf
+FullAOI_Export.fix
+FullAOI_Export.prj
+FullAOI_Export.shp
+FullAOI_Export.shx
+temp/
+venv/
+*.tif
+__pycache__/
+*.pyc
+.DS_Store
